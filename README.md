@@ -1,13 +1,8 @@
-## Hey, I'm Miles!
+## Hi, I'm Miles.
 
-#### I'm a 17-year-old student, duel enrolled at Lincoln High School and North Seattle College in Seattle, WA.
+I'm a 17-year-old student at Lincoln High School and North Seattle College, aspiring to work in interdisciplinary data science.
 
-I aspire to major in computer science and apply it to statistical research in varying fields.
-
-I picked up programming when I was very young, starting with Mindstorms Ev3 when I was 5, and Scratch programming when I was 8. 
-
-I'm now very passionate about coding, and spend a lot of my free time making projects about things important to me. I love programming because of its associated critical thinking, creative analysis, and innovation. I'm entirely self-taught, and have helped teach others.
-
-I'm open to currently open internship positions: see my [LinkedIn](https://www.linkedin.com/in/miles-caprio-4622a326a/), [Resume](https://1drv.ms/b/s!AjPTAjzvct4lk7lTTEjYV6wFyB9fdA?e=ZqALzM), and [Detailed Programming Experience Summary](https://1drv.ms/b/s!AjPTAjzvct4lk7lU3paPb4h3UQG2rQ?e=iNCRY0)
+I'm very passionate about programming, having started self-teaching when I was just five; you can often find me working on projects in my free time. I'm proficient (and entirely self-taught) in Python, C++, Java, Rust, MATLAB, R, and others. I have also worked to teach many others how to code and demonstrate its wide variety of applications.
+I'm open to currently open to work; see my [LinkedIn](https://www.linkedin.com/in/miles-caprio-4622a326a/), [Resume](https://1drv.ms/b/s!AjPTAjzvct4lk7lTTEjYV6wFyB9fdA?e=ZqALzM), and [Detailed Programming Experience Summary](https://1drv.ms/b/s!AjPTAjzvct4lk7lU3paPb4h3UQG2rQ?e=iNCRY0)
 
 ### Check Out my Repository Lists & Portfolio Projects **_[Here](https://github.com/milescaprio/?tab=stars)_**
