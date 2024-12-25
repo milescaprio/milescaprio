@@ -1,4 +1,4 @@
-## Hi, I'm Miles.
+## Hi, I'm Miles
 
 I'm a 17-year-old student at Lincoln High School and North Seattle College, aspiring to work in interdisciplinary data science.
 
