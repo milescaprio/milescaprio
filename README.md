@@ -1,4 +1,4 @@
 Hi, I'm Miles. I'm a 17-year-old student at Lincoln High School aspiring in interdisciplinary data science. I'm passionate about programming, having started self-teaching when I was just five; you can often find me working on projects in my free time. I'm proficient (and entirely self-taught) in Python, C++, Java, Rust, MATLAB, R, and others. I have also worked to teach many others how to code and demonstrate its wide variety of applications.
-I'm open to currently open to work; see my [LinkedIn](https://www.linkedin.com/in/miles-caprio-4622a326a/), [Resume](https://drive.google.com/file/d/1-1a8K-xPtK0QHhtt0S0A3Afcqt9PutnC/view?usp=sharing), and [Detailed Programming Experience Summary](https://1drv.ms/b/s!AjPTAjzvct4lk8NxrOFBoF-Q7AJbrg?e=yGKlfe)
+I'm open to currently open to work; see my [LinkedIn](https://www.linkedin.com/in/miles-caprio-4622a326a/), [Resume](https://drive.google.com/file/d/1-9jfpluYej96UGq6ET-rB_O5LHyD0K72/view), and [Detailed Programming Experience Summary](https://drive.google.com/file/d/1-263E7L9a2batdLYemZ_UW1aUpWbvZXT/view)
 
 ##### Check Out my Repository Lists & Portfolio Projects **_[Here](https://github.com/milescaprio/?tab=stars)_**
